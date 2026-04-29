@@ -25,4 +25,4 @@ Modeller genel olarak bir hizmet sistemini (restoran, kafeterya veya benzeri bir
 **Büşra Baltacı**
 
 ---
-*Bu depo otomatik olarak düzenlenmiş ve simülasyon çıktılarına göre belgelendirilmiştir.*
+
