@@ -1,0 +1,82 @@
+
+                                      ARENA Simulation Results
+                                         Furkan Ali BALTACI
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :12/ 8/2024
+Analyst: Furkan Ali BALTACI                                          Model revision date:12/ 1/2024
+
+Replication ended at time      : 1200.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+yuruyerek.VATime                            25.583     .48739     15.443     35.079        396    
+yuruyerek.NVATime                           .00000     .00000     .00000     .00000        396    
+yuruyerek.WaitTime                          9.1662     3.6808     .00000     47.039        396    
+yuruyerek.TranTime                          2.4605     .14246     .24062     7.9560        396    
+yuruyerek.OtherTime                         .00000     .00000     .00000     .00000        396    
+yuruyerek.TotalTime                         37.210     (Corr)     18.234     81.442        396    
+otobusle.VATime                             25.757     (Insuf)    15.682     35.535        153    
+otobusle.NVATime                            .00000     (Insuf)    .00000     .00000        153    
+otobusle.WaitTime                           9.3217     (Insuf)    .00000     20.434        153    
+otobusle.TranTime                           2.6924     (Insuf)    .37496     6.8463        153    
+otobusle.OtherTime                          .00000     (Insuf)    .00000     .00000        153    
+otobusle.TotalTime                          37.771     (Insuf)    20.147     56.091        153    
+arabayla.VATime                             25.363     .39122     15.115     35.605        566    
+arabayla.NVATime                            .00000     .00000     .00000     .00000        566    
+arabayla.WaitTime                           10.835     (Corr)     .00000     45.270        566    
+arabayla.TranTime                           2.5069     .08651     .23975     7.9485        566    
+arabayla.OtherTime                          .00000     .00000     .00000     .00000        566    
+arabayla.TotalTime                          38.706     (Corr)     19.088     78.428        566    
+yemek yeme.Queue.WaitingTime                1.9619     (Corr)     .00000     15.713       1125    
+yemek alma.Queue.WaitingTime                1.5325     (Corr)     .00000     17.294       1126    
+sipais verme.Queue.WaitingTime              6.7612     (Corr)     .00000     35.592       1133    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+yuruyerek.WIP                               12.546     (Corr)     .00000     25.000     14.000    
+otobusle.WIP                                4.8158     (Insuf)    .00000     37.000     .00000    
+arabayla.WIP                                18.782     (Corr)     .00000     42.000     25.000    
+yh personeli.NumberBusy                     1.1692     (Corr)     .00000     3.0000     1.0000    
+yh personeli.NumberScheduled                1.8333     (Insuf)    .00000     3.0000     1.0000    
+yh personeli.Utilization                    .64859     .06533     .00000     1.0000     1.0000    
+sandalye.NumberBusy                         18.674     (Corr)     .00000     30.000     10.000    
+sandalye.NumberScheduled                    30.000     (Insuf)    30.000     30.000     30.000    
+sandalye.Utilization                        .62247     (Corr)     .00000     1.0000     .33333    
+so personel.NumberBusy                      4.0575     (Corr)     .00000     9.0000     3.0000    
+so personel.NumberScheduled                 5.8333     (Insuf)    2.0000     9.0000     3.0000    
+so personel.Utilization                     .78224     (Corr)     .00000     1.0000     1.0000    
+yemek yeme.Queue.NumberInQueue              1.8392     (Corr)     .00000     27.000     .00000    
+yemek alma.Queue.NumberInQueue              1.4531     (Corr)     .00000     10.000     4.0000    
+sipais verme.Queue.NumberInQueue            6.5818     (Corr)     .00000     32.000     21.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+yuruyerek.NumberIn                          410.00    
+yuruyerek.NumberOut                         396.00    
+otobusle.NumberIn                           153.00    
+otobusle.NumberOut                          153.00    
+arabayla.NumberIn                           591.00    
+arabayla.NumberOut                          566.00    
+yh personeli.NumberSeized                   1126.0    
+yh personeli.ScheduledUtilization           .63775    
+sandalye.NumberSeized                       1125.0    
+sandalye.ScheduledUtilization               .62247    
+so personel.NumberSeized                    1133.0    
+so personel.ScheduledUtilization            .69558    
+System.NumberOut                            1115.0    
+
+
+Simulation run time: 0.08 minutes.
+Simulation run complete.

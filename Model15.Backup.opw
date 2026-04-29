@@ -1,0 +1,17 @@
+[RESOURCES]
+yh personeli
+sandalye
+so personel
+[VARIABLES]
+odeme.NumberIn
+odeme.NumberOut
+yuruyerek gelis.NumberOut
+sipais verme.NumberOut
+arabayla gelis.NumberOut
+Dispose 1.NumberOut
+yemek yeme.NumberIn
+sipais verme.NumberIn
+yemek yeme.NumberOut
+yemek alma.NumberIn
+yemek alma.NumberOut
+otobusle gelis.NumberOut
