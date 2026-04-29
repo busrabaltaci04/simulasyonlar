@@ -22,7 +22,7 @@ Modeller genel olarak bir hizmet sistemini (restoran, kafeterya veya benzeri bir
 - `.err`: Hata günlükleri ve hata ayıklama dosyaları.
 
 ## Analist
-**Furkan Ali BALTACI**
+**Büşra Baltacı**
 
 ---
 *Bu depo otomatik olarak düzenlenmiş ve simülasyon çıktılarına göre belgelendirilmiştir.*
